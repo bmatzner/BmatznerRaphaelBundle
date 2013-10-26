@@ -2,8 +2,7 @@
 
 ## Current Version
 
-Raphael v2.1.0
-include eve v0.4.2
+Raphael v2.1.2
 
 ## Installation
 
